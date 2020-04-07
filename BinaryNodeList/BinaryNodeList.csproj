@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Authors>H. Utku Maden</Authors>
+    <Product>Binary Node List</Product>
+    <Description>Binary Node List is a basic file format that is meant to store generic streams of data organized with keys and array indices.</Description>
+    <Copyright>Copyright (C) 2020</Copyright>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <NeutralLanguage />
+    <PackageId>BinaryNodeList</PackageId>
+    <Company>Binary Node List</Company>
+    <RepositoryType>Source Code</RepositoryType>
+    <RepositoryUrl>https://github.com/BinaryNodeList/BNL.NET</RepositoryUrl>
+    <PackageTags>file, format, binary, list, node, GNU, storage</PackageTags>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
